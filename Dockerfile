@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-LABEL maintainer="wangyunpeng <wangyp0701@gmail.com>"
+LABEL maintainer="wyp <wangyp0701@gmail.com>"
 
 ENV TZ Asia/Shanghai
 ENV TINI_VERSION 0.19.0
