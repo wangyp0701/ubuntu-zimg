@@ -1,4 +1,4 @@
-# ubuntu-zimg
+# ubuntu-zimg精简版
 
 * 基于ubuntu镜像制作，[zimg](http://zimg.buaa.us/) v3.2.0 支持 png webp 格式图片
 
